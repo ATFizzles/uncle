@@ -3,6 +3,14 @@ h1{
 	text-align: center;
 }
 
+
+#line{
+	border-top: 2px solid gray;
+	width: 50%;
+}
+
+
+
 li{
 	text-align: center;
 	display: inline;
