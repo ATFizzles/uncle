@@ -1,0 +1,30 @@
+h1{
+	color: blue;
+	text-align: center;
+}
+
+li{
+	text-align: center;
+	display: inline;
+}
+ 
+
+#navigation a { 
+	text-decoration:none; 
+	color: black; 
+	padding:0px 40px; 
+	font-family:Arial; 
+	font-size:1em; 
+} 
+
+#navigation a:hover { 
+	text-decoration: none; 
+	color: gray; 
+} 
+
+#navigation{
+	margin-left: 0%;
+	padding-bottom: 6%;
+	width: 100%;
+	text-align: center;
+}
